@@ -12,7 +12,7 @@ from googletrans import Translator
 import youtube_dl
 #ARIF PERSEMBAHKAN BOT INI BUAT KALIAN YANG MEMANG MEMBUTUHKAN | LIKE & SUBSCRIBE CHANNEL YOUTUBE SAYA : Arifistifik
 #cl = LineClient()
-cl = LineClient(authToken='EthvrBvufsKiXqRHS7e5.ELelAycz6M3rL1VnttWz9q.L8eE/8eoWhidLaa/S+Fwi6lkZhiG2vAgE1ZaeGsuXA4=')
+cl = LineClient(authToken='EvdsUhs2RCW60RVftAnf.K9hUseF6j4f/WE5DLTHHBW.aiRtAaup010QtKAlnsahVfxbh/QQlmElhqFc9zyegzg=')
 cl.log("Auth Token : " + str(cl.authToken))
 channel = LineChannel(cl)
 cl.log("Channel Access Token : " + str(channel.channelAccessToken))
